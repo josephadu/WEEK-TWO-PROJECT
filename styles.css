@@ -1,0 +1,80 @@
+body {
+    background-color: black;
+    font-family: 'Merriweather', serif;
+    margin: 0;
+}
+
+.First-content-section {
+    background-color: orange;
+    height: 300px;
+    margin: 0 auto 10px auto;
+    width: 70%;
+    text-align: center;
+}
+
+.Footer-div {
+    background-color: coral;
+    height: 40px;
+    position: relative;
+    top: 9px;
+}
+
+.Footer-para {
+    color: white;
+    position: absolute;
+    right: 800px;
+    font-size: 15px;
+}
+
+.First {
+    position: relative;
+    top: 120px;
+}
+
+.Second {
+    position: relative;
+    top: 120px;
+}
+
+.Third {
+    position: relative;
+    top: 120px;
+}
+
+.Second-content-section {
+    background-color: brown;
+    height: 300px;
+    margin: 0 auto 10px auto;
+    width: 70%;
+    text-align: center;
+}
+
+.Third-content-section {
+    background-color: burlywood;
+    height: 300px;
+    margin: 0 auto 10px auto;
+    width: 70%;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    margin-top: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+}
+
+.Header-div {
+    height: 100px;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.H1-ECARS:hover {
+    color: goldenrod;
+}
+
+p {
+    font-size: 25px;
+}
